@@ -5,23 +5,23 @@ COVID-19 data analysis project, version 2
        Date: 11/1/2021
 Description: Data exploration for COVID-19 data mainly focused on data for the United States,
              North America, and Central America. These queries pull data from a dataset
-			 obtained from ourworldindata.org, which keeps track of the data and it is
-			 maintained on a daily basis. The copy of the data set contains data for almost
-			 two years, starting on January 28, 2020 and ending on September 29, 2921.
+	     obtained from ourworldindata.org, which keeps track of the data and it is
+	     maintained on a daily basis. The copy of the data set contains data for almost
+	     two years, starting on January 28, 2020 and ending on September 29, 2021.
 
      Source: "Coronavirus pandemic (COVID-19)" https://ourworldindata.org/coronavirus
 
 "Story Board"
-    1. COVID-19 death climb in USA for 2020 ................................................ (DONE)
-    2. Top 5 days with most new cases in USA for 2020 ...................................... (DONE)
-	3. Top 5 COVID deadliest days in the USA for 2020 ...................................... (DONE)
-    4. Death rates across North America in 2020 ............................................ (DONE)
-    5. Most likely country to die if contracting COVID ..................................... (DONE)
-    6. Vaccinations vs total cases in the USA for 2021 ..................................... (DONE)
-    7. Vaccination numbers in North America (vaccination distribution accross the continent) (DONE)
-    8. Top 5 days with most new cases in USA for 2021 ...................................... (DONE)
-	9. Top 5 COVID deadliest days in the USA for 2021 ...................................... (DONE)
-   10. Deaths vs vaccinations in the USA for 2021 .......................................... 
+    1. COVID-19 death climb in USA for 2020
+    2. Top 5 days with most new cases in USA for 2020
+    3. Top 5 COVID deadliest days in the USA for 2020
+    4. Death rates across North America in 2020
+    5. Most likely country to die if contracting COVID
+    6. Vaccinations vs total cases in the USA for 2021
+    7. Vaccination numbers in North America (vaccination distribution accross the continent)
+    8. Top 5 days with most new cases in USA for 2021
+    9. Top 5 COVID deadliest days in the USA for 2021
+   10. Deaths vs vaccinations in the USA for 2021
 */
 
 -- USE covid_project;
